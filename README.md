@@ -7,4 +7,4 @@ O código aqui não é necessariamente o código produtivo que eu utilizei em me
 # 📌 O que foi implementado?
 Para ficar fácil pesquisar deixei uma lista abaixo do que tem adicionado aqui como link 🙂.
 
-- [BOT Telegram](https://exemplo.com/).
+- [BOT Telegram](https://github.com/jmspmontenegro/laravel-ideias/blob/main/src/bot-laravel.md).
